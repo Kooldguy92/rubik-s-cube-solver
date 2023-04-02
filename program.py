@@ -76,3 +76,5 @@ for i, move in enumerate(moves):
 
 # Print the solution
 print(solution)
+
+#note you can't solve the wrong algorithm!
